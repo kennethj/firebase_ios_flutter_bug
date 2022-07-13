@@ -83,3 +83,13 @@ artbeatLogging/HeartbeatController.swift:109:13
 Could not build the application for the simulator.
 Error launching application on iPhone 13.
 ```
+
+## Using XCode
+
+```bash
+xed ios
+```
+
+Press run.
+
+![xcode error](./xcode-error.png)
